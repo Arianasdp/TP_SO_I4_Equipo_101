@@ -1,1 +1,13 @@
 
+Integrantes:
+
+*Ariana De Palma
+*Lautaro Francomagro
+*Nicolas David Gil
+
+Respuestas:
+
+a) El background-color de Testing es: azul
+b) El background-color de Desarrollo es: amarillo
+c) El background-color de Main es: azul
+d) El favicon de Alfa quedo en el main.
