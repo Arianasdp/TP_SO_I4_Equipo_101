@@ -11,3 +11,8 @@ a) El background-color de Testing es: azul
 b) El background-color de Desarrollo es: amarillo
 c) El background-color de Main es: azul
 d) El favicon de Alfa quedo en el main.
+e) Sí, beta y gamma tuvieron problemas al hacer el push
+f) Les saltó un inject rechazado ya que no tenían el reposotorio actualizado con el push de alfa
+g) Para solucionar el problema se realizó un git push --force, y los archivos se sobrepusieron, quedando finalmente el de gamma
+h) Lo que sucede es fuerza la actualización a suceder de todas maneras
+i)Cada participante debe clonar el repositorio después de que el otro haya realizado los cambios, y a la hora de realizar el echo utilizar el >> para agregar la información sin borrar el resto
